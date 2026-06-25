@@ -1,6 +1,5 @@
-# AI-Excel-Data-Analyst
+# Project Description: Autonomous Local Data Analyst
 
-Project Description: Autonomous Local Data Analyst
 This repository contains a production-ready Streamlit web application that allows users to upload unstructured Excel files (.xlsx, .xls) and perform conversational, natural language data analysis.
 
 Instead of writing manual code or scripts to group, filter, and aggregate datasets, users simply chat with their data. The application converts the raw file dynamically into an optimized, transient SQL environment in memory, leveraging an advanced open-weights Large Language Model via Groq to automatically write, execute, and translate SQL queries back into human-readable insights.
